@@ -7,3 +7,6 @@ In this module, one learns the basics of C++, such as namespaces, classes, membe
 
 ## Cpp01
 This module is about memory allocation, pointers to members, references and switch statements.
+
+## Cpp02
+In this module, one learns about ad-hoc polymorphism, operator overloading and Orthodox Canonical class form.
