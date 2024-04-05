@@ -10,3 +10,6 @@ This module is about memory allocation, pointers to members, references and swit
 
 ## Cpp02
 In this module, one learns about ad-hoc polymorphism, operator overloading and Orthodox Canonical class form.
+
+## Cpp03
+This module is about class Inheritance.
