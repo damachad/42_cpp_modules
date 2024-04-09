@@ -13,3 +13,6 @@ In this module, one learns about ad-hoc polymorphism, operator overloading and O
 
 ## Cpp03
 This module is about class Inheritance.
+
+## Cpp04
+In this module, one learns about subtype polymorphism, abstract classes and interfaces.
