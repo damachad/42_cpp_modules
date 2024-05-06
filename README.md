@@ -25,3 +25,6 @@ In this module, one learns about the different types of casts in C++ (static_cas
 
 ## Cpp07
 This module is about Templates, both function templates and class templates, in C++.
+
+## Cpp08
+In this module, one learns about templated containers, iterators and algorithms. A first look into the Standard Template Library.
