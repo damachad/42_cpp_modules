@@ -22,3 +22,6 @@ This module is about Exceptions (try, catch and throw).
 
 ## Cpp06
 In this module, one learns about the different types of casts in C++ (static_cast, reinterpret_cast, const_cast, dynamic_cast).
+
+## Cpp07
+This module is about Templates, both function templates and class templates, in C++.
