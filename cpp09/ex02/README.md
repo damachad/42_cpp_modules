@@ -30,7 +30,7 @@ Time to process a range of 8 elements with std::list 8 us
 2. Compile the program: `make`;
 3. Run: `./PmergeMe <positive_integer_sequence>`;
 
-## Merge insert algorithm (Ford-Johnson)
+## 🗃️ Merge insert algorithm (Ford-Johnson)
 This algorithm performs the following steps, on an input *X* of n elements:
 
 1. Group the elements of *X* into [n/2] pairs of elements, arbitrarily, leaving one element unpaired (straggler) if there is an odd number of elements.
@@ -41,6 +41,6 @@ This algorithm performs the following steps, on an input *X* of n elements:
 6. Insert the remaining [n/2] - 1 elements of *pend* into *S*, one at a time. This step is optimized by using Jacobsthal numbers. These provide a more balanced insertion and minimize the cost of insertion.
 7. Insert the unpaired element (straggler), if present.
 
-## Links
-https://github.com/PunkChameleon/ford-johnson-merge-insertion-sort
+## 🔄 Links
+https://github.com/PunkChameleon/ford-johnson-merge-insertion-sort   
 https://github.com/decidedlyso/merge-insertion-sort/blob/master/README.md
